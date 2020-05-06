@@ -1,0 +1,4 @@
+target/*
+*-dev.properties
+*.iml
+*.idea/*
